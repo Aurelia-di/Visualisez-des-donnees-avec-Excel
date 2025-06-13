@@ -1,4 +1,4 @@
-# Visualisez-des-donnees-avec-Excel
+# Visualisez des donnees avec Excel
 En tant que consultant Business Intelligence junior au sein de l’ESN Data, j’ai été missionné chez Primero Bank 🏦 pour accompagner un consultant sénior dans l’analyse des départs clients. L’objectif était d’identifier les causes de la perte de clientèle et de proposer des recommandations adaptées. :mag_right:
 
 ## 🎯 Objectifs et missions
